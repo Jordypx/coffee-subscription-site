@@ -1,6 +1,4 @@
-# Frontend Mentor - Coffeeroasters subscription site solution
-
-This is a solution to the [Coffeeroasters subscription site challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Coffeeroasters subscription site solution
 
 ## Table of contents
 
@@ -107,19 +105,3 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - mobile navigation, it is not closing when a selection has been made . Has to be closed by pressing the close button again
 
 
-### Useful resources
-
-- [React router dom](https://reactrouter.com/web/guides/quick-start) - navigation between pages
-- [bootstrap accordion](https://getbootstrap.com/docs/5.0/components/accordion/)
-- [w3 - accessible accordion](https://www.w3.org/TR/wai-aria-practices-1.1/examples/accordion/accordion.html)
-
-## Author
-
-- Website - [Chamu Mutezva](https://github.com/ChamuMutezva)
-- Frontend Mentor - [@ChamuMutezva](https://www.frontendmentor.io/profile/ChamuMutezva)
-- Twitter - [@ChamuMutezva](https://twitter.com/ChamuMutezva)
-
-## Acknowledgments
-
-- Frontend Mentor community leaders for providing a platform to engage with fellow learners and mentors. This makes the learning exciting.
-# coffee-subscription-site
